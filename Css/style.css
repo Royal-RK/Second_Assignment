@@ -408,17 +408,16 @@ ul {
         display: block;
         margin-left: auto;
     }
-    /* banner */
+} 
+@media screen and (max-width: 1024px) {
+    .col-3 , .foot-col {
+        width: 33.33%;
+    }
     .col-4 , .col-8 {
         width: 100%;
     }
     .home-loan , .car-loan {
         display: none;
-    }
-} 
-@media screen and (max-width: 1024px) {
-    .col-3 , .foot-col {
-        width: 33.33%;
     }
     
 }
