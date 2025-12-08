@@ -416,6 +416,9 @@ nav,
 /*  media query */
 
 @media screen and (max-width: 1200px) {
+  .banner-row > .col-4 > h1 {
+    font-size: 52pxpx;
+  }
   /* navbar */
   /* .nav-menu {
     display: none;
