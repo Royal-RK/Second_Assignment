@@ -416,8 +416,8 @@ nav,
 /*  media query */
 
 @media screen and (max-width: 1200px) {
-  .banner-row > .col-4 > h1 {
-    font-size: 52px;
+  .col-4 > h1 {
+    font-size: 48px;
   }
   /* navbar */
   /* .nav-menu {
