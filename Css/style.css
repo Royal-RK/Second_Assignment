@@ -417,6 +417,15 @@ nav,
 
 @media screen and (max-width: 1200px) {
   /* navbar */
+  /* .nav-menu {
+    display: none;
+  }
+  .list {
+    display: block;
+    margin-left: auto;
+  } */
+}
+@media screen and (max-width: 1056px) {
   .nav-menu {
     display: none;
   }
